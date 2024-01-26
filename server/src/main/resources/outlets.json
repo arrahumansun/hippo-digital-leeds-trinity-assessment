@@ -1,0 +1,177 @@
+[
+  {
+    "id": "001",
+    "name": "KFC",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "002",
+    "name": "Subway",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "003",
+    "name": "McDonald's",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "004",
+    "name": "BurgerKing",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "005",
+    "name": "Greggs",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "006",
+    "name": "Nandos",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "007",
+    "name": "Pizza Express",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "008",
+    "name": "JD Wetherspoons",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "009",
+    "name": "Pizza Hut",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "010",
+    "name": "TGI Fridays",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "011",
+    "name": "McDonald's",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "012",
+    "name": "Domino's Pizza",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "013",
+    "name": "Harvester Salad & Grill",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "014",
+    "name": "Harry Ramsden",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "015",
+    "name": "Little Chef",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "016",
+    "name": "Toby Carvery",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "017",
+    "name": "Wagamama",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "018",
+    "name": "Hard Rock Cafe",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "019",
+    "name": "Brewers Fayre",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "020",
+    "name": "Miller and Carter",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "021",
+    "name": "Vintage Inns",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "022",
+    "name": "Frankie and Benny's",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "023",
+    "name": "Chiquito",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "024",
+    "name": "Five Guys",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  },
+  {
+    "id": "025",
+    "name": "Papa Johns",
+    "openTime": "07:00:00",
+    "closeTime": "17:00:00",
+    "active": "true"
+  }
+]
